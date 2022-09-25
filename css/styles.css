@@ -1,5 +1,5 @@
 body {
-    background-color: mediumaquamarine;
+    background-color: white;
     font-family: 'Oxygen', sans-serif;
     font-size: 16px;
 }
@@ -24,4 +24,8 @@ body {
     color: #000000;
     text-transform: capitalize;
     font-size: 1em;
+}
+
+.carousel-item img {
+    height: 30%;
 }
