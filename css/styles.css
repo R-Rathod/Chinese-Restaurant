@@ -4,7 +4,7 @@ body {
     font-size: 16px;
 }
 
-/** Header **/
+
 #header-nav {
     background-color: #ffffff;
     border-radius: 0;
@@ -23,12 +23,10 @@ body {
     padding-top: 25px;
 }
 
-.navbar-brand h1 {
+#logo-title {
     font-family: 'Reem Kufi Ink', sans-serif;
     color: black;
     font-size: 2em;
-    margin-top: 0;
-    margin-bottom: 0;
     line-height: 0.75;
 }
 
@@ -36,12 +34,11 @@ body {
     text-decoration: none;
 }
 
-.navbar-brand p {
+.navbar-brand a {
     font-family: 'Reem Kufi Ink', sans-serif;
     color: #000000;
     text-transform: uppercase;
     font-size: 0.8em;
-    margin-top: 15px;
 }
 
 .navbar-brand p span {
